@@ -639,7 +639,7 @@ This function uses the position and rotation of our cube spawner to calculate a 
 
 Your completed code should look like this:
 
-`createCubeSpawner.js`
+_createCubeSpawner.js_
 
 ```javascript
 Entities.addEntity({
@@ -653,7 +653,7 @@ Entities.addEntity({
 });
 ```
 
-`spawnCube.js`
+_spawnCube.js_
 
 ```javascript
 (function(){
